@@ -13,6 +13,7 @@
     'depends': ['base'],
 
     'data': [
-        
+        'views/biblioteca_comic.xml',
+        'views/biblioteca_comic_categoria.xml',
     ],
 }
